@@ -2,6 +2,10 @@
     height: 35px;
     width: 35px;
     margin-top: 1em;
-    margin-right: 3.25em;
-    margin-left: 1em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+body{
+    background-color: #e9ecef;
 }

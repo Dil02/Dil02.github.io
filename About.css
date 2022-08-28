@@ -1,5 +1,9 @@
 #selfie{
-    height: 250px;
-    width: 150px;
+    height: 375px;
+    width: 275px;
     border-radius: 1em;
+}
+
+body{
+    background-color: #e9ecef;
 }
